@@ -1,4 +1,4 @@
-# TRAIN-EFFECTIVE4
+# TRAIN-EFFECTIVE
 A LANDING PAGE OF A FOOTBALL TRAINING WEBSITE USING HTML, CSS & JAVASCRIPT (GREENSOCK).
 
 Greensock is a standard JavaScript animation library from GreenSock that lets you craft high-performance animations that work in every major browser.
